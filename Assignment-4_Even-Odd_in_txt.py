@@ -17,3 +17,7 @@ def integers():
                 if int_input % 2 == 0:
                     # Write to even.txt
                     even_num.write(str(int_input) + "\n")
+                # if odd,
+                else:
+                    # Write to odd.txt
+                    odd_num.write(str(int_input) + "\n")

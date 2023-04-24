@@ -13,3 +13,7 @@ def integers():
             # Convert string to integer
             if line.strip:
                 int_input = int(line)
+                # Check if line is even,
+                if int_input % 2 == 0:
+                    # Write to even.txt
+                    even_num.write(str(int_input) + "\n")

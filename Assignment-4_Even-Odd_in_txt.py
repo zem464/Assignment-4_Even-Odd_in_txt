@@ -21,3 +21,5 @@ def integers():
                 else:
                     # Write to odd.txt
                     odd_num.write(str(int_input) + "\n")
+# End the Program
+integers()

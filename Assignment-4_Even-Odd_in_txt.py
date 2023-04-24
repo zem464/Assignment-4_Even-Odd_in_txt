@@ -8,4 +8,8 @@
 def integers():
     # Create a text file named for the 20 integers, even integers, and odd integers
     with open("numbers.txt") as numbers_input, open("even.txt", "a") as even_num, open("odd.txt", "a") as odd_num:
-        
+        # Read the text line by line
+        for line in numbers_input:
+            # Convert string to integer
+            if line.strip:
+                int_input = int(line)

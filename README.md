@@ -18,7 +18,7 @@ Write a Python program that reads a text file named numbers.txt that contains 20
 
 2. Assign and convert the string to integer. 
 
-  **NOTE :** Do not forget to add ``strip()`` function
+    **NOTE :** Do not forget to add ``strip()`` function
 
 3. Check the lines for the even and odd values.
 
@@ -31,6 +31,6 @@ Write a Python program that reads a text file named numbers.txt that contains 20
 ### Contact
 Zemerelin Iris M. Membrere - _zemerelinmembrere@gmail.com_
 
-**Project Link :** 
+**Project Link :** https://github.com/zem464/Assignment-4_Even-Odd_in_txt.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

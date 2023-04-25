@@ -14,23 +14,19 @@ Write a Python program that reads a text file named numbers.txt that contains 20
 ## About the Program
 **STEPS**
 
-1. 
+1. Open a text file using ``with open() as variable:`` and read each line to process it.
 
-2. 
+2. Assign and convert the string to integer. 
 
-3. 
+  **NOTE :** Do not forget to add ``strip()`` function
 
-4. 
+3. Check the lines for the even and odd values.
 
-5. 
+4. End the program by closing the process.
 
 ## Running the Program
 
-1. 
-
-2. 
-
-3. 
+1. Run the program.
 
 ### Contact
 Zemerelin Iris M. Membrere - _zemerelinmembrere@gmail.com_

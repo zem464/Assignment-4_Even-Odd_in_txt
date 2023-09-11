@@ -31,6 +31,6 @@ Write a Python program that reads a text file named numbers.txt that contains 20
 ### Contact
 Zemerelin Iris M. Membrere - _zemerelinmembrere@gmail.com_
 
-**Project Link :** https://github.com/zem464/Assignment-4_Even-Odd_in_txt.git
+**Output Link :** https://drive.google.com/file/d/1otYy3hS0xn5NAIeQ2NSQHwaGGV0wnt-I/view?usp=drive_link
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
